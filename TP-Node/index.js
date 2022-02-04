@@ -1,3 +1,5 @@
+console.log('** Administration Collegues **');
+
 const vue = require('./vue.js');
 const service = require('./service.js');
 
