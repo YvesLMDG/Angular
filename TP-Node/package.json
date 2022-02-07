@@ -4,8 +4,13 @@
   "description": "application console qui permet d’explorer et manipuler des données",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.15",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
 }
